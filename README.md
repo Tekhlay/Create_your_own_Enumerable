@@ -60,22 +60,18 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Create your own Enumerable] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**[Create your own Enumerable]** project teaches how to use a module inside your class at ruby. In this project a class MyList and a module MyEnumerable are created.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://ruby.org/">Ruby</a></li>
   </ul>
 </details>
 
@@ -99,9 +95,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Create class]**
+- **[Create modules]**
+- **[Create Enumerables]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,9 +105,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
+- [Not applicable](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,34 +113,24 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
-
 ```sh
- gem install rails
+ gem install ruby
 ```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/Tekhlay/Create_your_own_Enumerable.git
 ```
---->
 
 ### Install
 
@@ -203,19 +187,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Tekhlay**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Tekhlay](https://github.com/Tekhlay)
+- Twitter: [@Tekhlay](https://twitter.com/TekhlayB12)
+- LinkedIn: [Tekhlay](https://linkedin.com/in/tekhlay)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,11 +199,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Add more class and modules]**
+- [ ] **[Maximize objective of the project]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,7 +210,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Tekhlay/Create_your_own_Enumerable/issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -245,9 +218,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
+If you like this project give a ⭐️ and share with your friends!.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,9 +226,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -267,13 +236,9 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[How to check best practices of ruby]**
 
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+  - [Run ruboscop]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -281,8 +246,6 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://github.com/Tekhlay/Create_your_own_Enumerable/blob/dev/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
