@@ -193,12 +193,6 @@ Example:
 - Twitter: [@Tekhlay](https://twitter.com/TekhlayB12)
 - LinkedIn: [Tekhlay](https://linkedin.com/in/tekhlay)
 
-👤 **Marc Raphael**
-
-- - GitHub: [@Marcraphael12](https://github.com/Marcraphael12)
-- Twitter: [@Marcraphael20](https://twitter.com/MarcRaphael20)
-- LinkedIn: [Marc raphael](http://www.linkedin.com/in/marc-raphael-326039204)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
